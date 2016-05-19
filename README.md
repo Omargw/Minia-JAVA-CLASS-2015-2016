@@ -10,7 +10,7 @@ working with java basic syntax,  variables, data tyes, operators (mathematical &
 Lab 2: 
 Functions , Intorduction to Classes, Constructor 
 
-Lab3 3:
+Lab 3:
 More on classes, inhertance, destructor, encapsulation {getter & setter}
 
 Lab 4:
