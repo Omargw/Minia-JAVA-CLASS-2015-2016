@@ -14,7 +14,7 @@ Lab 3:
 More on classes, inhertance, destructor, encapsulation {getter & setter}
 
 Lab 4:
-More on classes, working multiple classes, working with package and external libraries
+More on classes, working with multiple classes, working with package and external libraries
 
 Final Project:
 this is a pre-selected problems to be solved using the skills learned during the class, a problem for each team, teams are maximum of 3 students only
